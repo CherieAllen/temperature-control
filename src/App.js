@@ -8,6 +8,10 @@ function App() {
         <div className="teperature-display"> 10°C</div>
 
       </div>
+      <div className="button-container">
+        <button>+</button>
+        <button>-</button>
+      </div>
 
 
       
